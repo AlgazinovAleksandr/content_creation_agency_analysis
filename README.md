@@ -1,2 +1,3 @@
-# content_creation_agency_analysis
-Task that will hopefully make me change the world (with Machine Learning of course)
+### Task that will hopefully make me change the world (with Machine Learning of course)
+
+**Дисклеймер:** проект создан в строго учебных целях, и не имеет отношения к реальному бизнесу. Результаты сгенерированы LLM, и могут быть неточными / ошибочными. Цель проекта - получить представление о том, как можно использовать ML для анализа данных о компаниях, занимающихся созданием контента, а не получение реальных данных и выводов о реальных компаниях.
